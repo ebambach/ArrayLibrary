@@ -1,0 +1,9 @@
+C:\repos\ArrayLibrary\TestArrayLibrary\obj\Debug\TestArrayLibrary.csproj.CoreCompileInputs.cache
+C:\repos\ArrayLibrary\TestArrayLibrary\bin\Debug\TestArrayLibrary.exe.config
+C:\repos\ArrayLibrary\TestArrayLibrary\bin\Debug\TestArrayLibrary.exe
+C:\repos\ArrayLibrary\TestArrayLibrary\bin\Debug\TestArrayLibrary.pdb
+C:\repos\ArrayLibrary\TestArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\repos\ArrayLibrary\TestArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\repos\ArrayLibrary\TestArrayLibrary\obj\Debug\TestArrayLibrary.csprojResolveAssemblyReference.cache
+C:\repos\ArrayLibrary\TestArrayLibrary\obj\Debug\TestArrayLibrary.exe
+C:\repos\ArrayLibrary\TestArrayLibrary\obj\Debug\TestArrayLibrary.pdb

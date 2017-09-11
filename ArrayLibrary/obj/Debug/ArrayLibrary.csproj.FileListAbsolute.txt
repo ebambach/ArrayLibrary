@@ -1,0 +1,6 @@
+C:\repos\ArrayLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.csprojResolveAssemblyReference.cache
+C:\repos\ArrayLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\repos\ArrayLibrary\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\repos\ArrayLibrary\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\repos\ArrayLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\repos\ArrayLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.pdb
